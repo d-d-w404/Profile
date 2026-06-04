@@ -33,8 +33,6 @@ More broadly, I am interested in bridging neuroscience and artificial intelligen
 * Developed and encapsulated standardized EEG analysis skills within an open Agent framework, enabling LLMs to orchestrate high-performance signal processing algorithms via Function Calling.
 * Formulated evaluation frameworks and guardrails for critical EEG contexts, minimizing hallucinations and mis-triggers through edge-case testing.
 
-**A Closed-Loop Real-Time EEG Framework with Adaptive Denoising and Online Learning for Emotion Classification**  
-*[12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025](https://cmsworkshops.com/NER2025/view_paper.php?PaperNum=1759)*[Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
 
 **Validation of a Real-Time EEG Artifact Removal Pipeline Based on ASR, ORICA, and ICLabel**  
 *SCCN Lab, UCSD · April 2026 – present*
@@ -42,6 +40,10 @@ More broadly, I am interested in bridging neuroscience and artificial intelligen
 * Replicated and validated Online Recursive ICA (ORICA) in Python against MATLAB implementations.
 * Engineered a production-ready package integrating ASR, ORICA, and extended ICLabel for real-time artifact removal and source visualization.
 * Validated the pipeline across multiple EEG datasets under diverse subject profiles and noise environments.
+
+**A Closed-Loop Real-Time EEG Framework with Adaptive Denoising and Online Learning for Emotion Classification**
+*SCCN Lab, UCSD · April 2025 – Oct 2025*  
+*[12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025](https://cmsworkshops.com/NER2025/view_paper.php?PaperNum=1759)*[Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
 
 **CNN-Based Framework for Automated Athlete Motion Classification**  
 *[Shootz](https://www.shootz.tech/), Central South University · Jun 2022 – Jun 2023*
