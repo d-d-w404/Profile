@@ -65,7 +65,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "wendeng-wang-78ba5a319"
   mastodon         :
   medium           :
   pinterest        :
@@ -220,7 +220,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  working:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -254,10 +254,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _working
   - scope:
       path: ""
-      type: teaching
+      type: working
     values:
       layout: single
       author_profile: true
