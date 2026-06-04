@@ -35,12 +35,10 @@ More broadly, I am interested in bridging neuroscience and artificial intelligen
 
 **A Real-Time EEG Framework for Adaptive Artifact Removal
 and Online Stress Classification**  
-*12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025*
+*12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025*[Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
 
-[Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
-
-**[pyorica](https://github.com/goodshawn12/pyorica): A Python Package for Real-Time EEG Artifact Removal**  
-*SCCN Lab, UCSD · Jul 2025 – Jun 2026*
+**Validation of a Real-Time EEG Artifact Removal Pipeline Based on ASR, ORICA, and ICLabel**  
+*SCCN Lab, UCSD · April 2026 – present*
 
 * Replicated and validated Online Recursive ICA (ORICA) in Python against MATLAB implementations.
 * Engineered a production-ready package integrating ASR, ORICA, and extended ICLabel for real-time artifact removal and source visualization.
@@ -52,6 +50,15 @@ and Online Stress Classification**
 * Developed tools for key-frame extraction and human annotation in sports videos.
 * Built an automated basketball video classification framework using ResNet18, YOLOv5, and ReID-based person re-identification.
 * This project became the core technological foundation of the startup Shootz.
+
+
+## Open Source
+
+**[pyorica](https://github.com/goodshawn12/pyorica)**  
+*SCCN Lab, UCSD · Apr 2026 – Present*
+
+* Developed and encapsulated standardized EEG analysis skills within an open Agent framework, enabling LLMs to orchestrate high-performance signal processing algorithms via Function Calling.
+* Formulated evaluation frameworks and guardrails for critical EEG contexts, minimizing hallucinations and mis-triggers through edge-case testing.
 
 ## Work Experience
 
