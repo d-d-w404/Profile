@@ -35,15 +35,15 @@ More broadly, I am interested in bridging neuroscience and artificial intelligen
 
 
 **Validation of a Real-Time EEG Artifact Removal Pipeline Based on ASR, ORICA, and ICLabel**  
-*SCCN Lab, UCSD · April 2026 – present*
+*SCCN Lab, UCSD · Feb 2026 – present*
 
-* Replicated and validated Online Recursive ICA (ORICA) in Python against MATLAB implementations.
+* Implemented and evaluated the Online Recursive ICA (ORICA) algorithm in Python.
 * Engineered a production-ready package integrating ASR, ORICA, and extended ICLabel for real-time artifact removal and source visualization.
 * Validated the pipeline across multiple EEG datasets under diverse subject profiles and noise environments.
 
-**A Closed-Loop Real-Time EEG Framework with Adaptive Denoising and Online Learning for Emotion Classification**
+**A Closed-Loop Real-Time EEG Framework with Adaptive Denoising and Online Learning for Emotion Classification**  
 *SCCN Lab, UCSD · April 2025 – Oct 2025*  
-*[12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025](https://cmsworkshops.com/NER2025/view_paper.php?PaperNum=1759)*[Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
+*[12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025](https://cmsworkshops.com/NER2025/view_paper.php?PaperNum=1759)* · [Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
 
 **CNN-Based Framework for Automated Athlete Motion Classification**  
 *[Shootz](https://www.shootz.tech/), Central South University · Jun 2022 – Jun 2023*
