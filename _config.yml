@@ -22,7 +22,7 @@ repository               : "d-d-w404/Profile"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Wendeng Wang"
   pronouns         :
   bio              : "Welcome to my academic homepage."
