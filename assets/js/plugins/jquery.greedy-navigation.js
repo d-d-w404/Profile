@@ -74,6 +74,21 @@ function updateNav() {
 $(window).on('resize', function () {
   updateNav();
 });
+$(window).on('pageshow', function (event) {
+  if (event.originalEvent && event.originalEvent.persisted) {
+    while ($hlinks.children().length > 0) {
+      if ($vlinks_persist_tail.length > 0 && $vlinks_persist_tail.children().length > 0) {
+        $hlinks.children().first().insertBefore($vlinks_persist_tail);
+      } else {
+        $hlinks.children().first().appendTo($vlinks);
+      }
+    }
+    breaks = [];
+    $btn.addClass('hidden');
+    $hlinks.addClass('hidden');
+    updateNav();
+  }
+});
 screen.orientation.addEventListener("change", function () {
   updateNav();
 });
