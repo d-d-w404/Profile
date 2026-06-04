@@ -27,14 +27,14 @@ More broadly, I am interested in bridging neuroscience and artificial intelligen
 
 ## Research Experience
 
-**Development of an LLM-Agent for Cross-Platform Automated EEG Analysis**  
+**LLM-Agent for Cross-Platform Automated EEG Analysis**  
 *SCCN Lab, UCSD · Apr 2026 – Present*
 
 * Developed and encapsulated standardized EEG analysis skills within an open Agent framework, enabling LLMs to orchestrate high-performance signal processing algorithms via Function Calling.
 * Formulated evaluation frameworks and guardrails for critical EEG contexts, minimizing hallucinations and mis-triggers through edge-case testing.
 
 **A Closed-Loop Real-Time EEG Framework with Adaptive Denoising and Online Learning for Emotion Classification**  
-*12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025*[Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
+*[12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025](https://cmsworkshops.com/NER2025/view_paper.php?PaperNum=1759)*[Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
 
 **Validation of a Real-Time EEG Artifact Removal Pipeline Based on ASR, ORICA, and ICLabel**  
 *SCCN Lab, UCSD · April 2026 – present*
@@ -46,18 +46,19 @@ More broadly, I am interested in bridging neuroscience and artificial intelligen
 **CNN-Based Framework for Automated Athlete Motion Classification**  
 *[Shootz](https://www.shootz.tech/), Central South University · Jun 2022 – Jun 2023*
 
-* Developed tools for key-frame extraction and human annotation in sports videos.
-* Built an automated basketball video classification framework using ResNet18, YOLOv5, and ReID-based person re-identification.
-* This project became the core technological foundation of the startup Shootz.
+* [Tools](https://github.com/d-d-w404/Sports_Annotation_Tool) for key-frame extraction and targets annotation in sports videos.
+* Automated basketball video classification [framework](https://github.com/d-d-w404/AMA) Based on ResNet18, YOLOv5, and ReID.
 
 
-## Open Source
+
+## Open Source Project
 
 **[pyorica](https://github.com/goodshawn12/pyorica)**  
 *SCCN Lab, UCSD · Apr 2026 – Present*
-
-* Developed and encapsulated standardized EEG analysis skills within an open Agent framework, enabling LLMs to orchestrate high-performance signal processing algorithms via Function Calling.
-* Formulated evaluation frameworks and guardrails for critical EEG contexts, minimizing hallucinations and mis-triggers through edge-case testing.
+* Online pipeline: bandpass IIR → ASR → ORICA → ICLabel artifact rejection → sensor-space reconstruction
+* Real-time ready: LSL streaming + chunk-wise ORICA (no full-session refit)
+* Benchmarking: simulated real-time runs on multi-subject EEG with per-IC source energy metrics
+* Reproducibility: PipelineConfig / YAML workflows for cross-session evaluation
 
 ## Work Experience
 
