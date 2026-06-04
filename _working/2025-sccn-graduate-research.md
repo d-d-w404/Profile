@@ -9,7 +9,7 @@ location: "La Jolla, CA"
 excerpt: 'Real-time EEG artifact removal and stress decoding research under Professor Tzyy-Ping Jung.'
 ---
 
-**Jul 2025 – Present** · Supervisor: Professor Tzyy-Ping Jung
+**2025 – 2026** · Supervisor: Professor Tzyy-Ping Jung
 
 At SCCN, I developed a real-time EEG artifact-removal system that integrates ORICA-based source separation with ICLabel, and I validated my Python implementation through carefully designed pseudo–real-time comparisons against the original MATLAB ORICA framework. I am now investigating whether the spectral dynamics and network connectivity of these real-time sources can provide stable and physiologically meaningful features for decoding stress and emotional states.
 
