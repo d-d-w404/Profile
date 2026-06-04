@@ -13,7 +13,7 @@ I am a Master's student in Electrical and Computer Engineering at the University
 
 My research interests span Neuro-AI, brain-computer interfaces, neural representation learning, and intelligent systems. I develop [pyorica](https://github.com/goodshawn12/pyorica) for online source separation, neural decoding, and automated artifact removal, with the long-term goal of building intelligent systems that can better understand human brain activity.
 
-Beyond neuroscience, I am also interested in computer vision and machine learning. Previously, I contributed to the development of a core vision framework for a [startup company](https://www.shootz.tech/) and trained deep learning models for object detection, image classification, and person re-identification using architectures such as YOLO, ResNet, and ReID-based methods.
+Beyond neuroscience, I am also interested in computer vision and machine learning. Previously, I contributed to the development of a core vision framework for [shootz](https://www.shootz.tech/) and trained deep learning models for object detection, image classification, and person re-identification using architectures such as YOLO, ResNet, and ReID-based methods.
 
 More broadly, I am interested in bridging neuroscience and artificial intelligence through representation learning, multimodal AI, and next-generation Neuro-AI systems.
 
@@ -33,11 +33,11 @@ More broadly, I am interested in bridging neuroscience and artificial intelligen
 * Developed and encapsulated standardized EEG analysis skills within an open Agent framework, enabling LLMs to orchestrate high-performance signal processing algorithms via Function Calling.
 * Formulated evaluation frameworks and guardrails for critical EEG contexts, minimizing hallucinations and mis-triggers through edge-case testing.
 
-**Real-Time EEG Stress Classification**  
-*SCCN Lab, UCSD · Mar 2025 – Oct 2025*
+**A Real-Time EEG Framework for Adaptive Artifact Removal
+and Online Stress Classification**  
+*12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025*
 
-* Evaluated dynamic correlations between mental stress states and independent EEG source components across diverse datasets.
-* Integrated the [pyorica](https://github.com/goodshawn12/pyorica) real-time source separation pipeline with predictive models for closed-loop EEG stress forecasting.
+[Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
 
 **[pyorica](https://github.com/goodshawn12/pyorica): A Python Package for Real-Time EEG Artifact Removal**  
 *SCCN Lab, UCSD · Jul 2025 – Jun 2026*
