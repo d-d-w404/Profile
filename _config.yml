@@ -22,7 +22,7 @@ repository               : "d-d-w404/Profile"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Wendeng Wang"
   pronouns         :
   bio              : "M.S. student in ECE at UCSD (SCCN). Research in Neuro-AI, BCI, and real-time EEG processing."

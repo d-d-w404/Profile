@@ -29,9 +29,9 @@ Research Experience
 * **Real-Time EEG Stress Classification** (Mar 2025 – Oct 2025)  
   SCCN Lab, UCSD  
   * Explored correlations between stress states and independent EEG source components.  
-  * Integrated Orica-Clean with predictive models for low-latency closed-loop stress forecasting.
+  * Integrated [pyorica](https://github.com/goodshawn12/pyorica) with predictive models for low-latency closed-loop stress forecasting.
 
-* **Orica-Clean: Real-Time EEG Artifact Removal** (Jul 2025 – Jun 2026)  
+* **[pyorica](https://github.com/goodshawn12/pyorica): Real-Time EEG Artifact Removal** (Jul 2025 – Jun 2026)  
   SCCN Lab, UCSD  
   * Replicated and validated ORICA in Python against MATLAB implementations.  
   * Built a production-ready package integrating ASR, ORICA, and ICLabel.  
