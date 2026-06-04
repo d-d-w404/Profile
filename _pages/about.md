@@ -33,8 +33,7 @@ More broadly, I am interested in bridging neuroscience and artificial intelligen
 * Developed and encapsulated standardized EEG analysis skills within an open Agent framework, enabling LLMs to orchestrate high-performance signal processing algorithms via Function Calling.
 * Formulated evaluation frameworks and guardrails for critical EEG contexts, minimizing hallucinations and mis-triggers through edge-case testing.
 
-**A Real-Time EEG Framework for Adaptive Artifact Removal
-and Online Stress Classification**  
+**A Closed-Loop Real-Time EEG Framework with Adaptive Denoising and Online Learning for Emotion Classification**  
 *12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA · Nov 2025*[Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
 
 **Validation of a Real-Time EEG Artifact Removal Pipeline Based on ASR, ORICA, and ICLabel**  
