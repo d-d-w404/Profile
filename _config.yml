@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Wendeng Wang"
 title_separator          : "-"
 name                     : &name "Wendeng Wang"
-description              : &description "Wendeng Wang's academic portfolio"
+description              : &description "Neuro-AI and BCI research at UCSD. Real-time EEG processing, neural decoding, and intelligent systems."
 url                      : https://d-d-w404.github.io
 baseurl                  : /Profile
 repository               : "d-d-w404/Profile"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Wendeng Wang"
   pronouns         :
-  bio              : "Welcome to my academic homepage."
+  bio              : "M.S. student in ECE at UCSD (SCCN). Research in Neuro-AI, BCI, and real-time EEG processing."
   location         :
   employer         : "University of California, San Diego"
   uri              :
