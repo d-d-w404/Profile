@@ -4,10 +4,10 @@ collection: publications
 category: conferences
 permalink: /publication/2025-11-06-realtime-eeg-framework
 excerpt: 'We present a Python-based real-time EEG processing framework for stress analysis, evaluated on the Laparoscopic Surgery EEG dataset with continuous stress annotations.'
-date: 2025-11-06
-venue: 'Poster presentation, University of California, San Diego'
+date: 2025-11-12
+venue: '12th International IEEE EMBS Conference on Neural Engineering (NER 2025), San Diego, CA'
 paperurl: 'https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf'
-citation: 'Wendeng Wang, Sheng-Hsiou Hsu, Tzyy-Ping Jung, Ying Choon Wu. (2025). &quot;A Real-Time EEG Framework for Adaptive Artifact Removal and Online Stress Classification.&quot; <i>Poster presentation, University of California, San Diego</i>.'
+citation: 'Wendeng Wang, Sheng-Hsiou Hsu, Tzyy-Ping Jung, Ying Choon Wu. (2025). &quot;A Real-Time EEG Framework for Adaptive Artifact Removal and Online Stress Classification.&quot; <i>Poster, 12th International IEEE EMBS Conference on Neural Engineering (NER 2025)</i>, San Diego, CA, USA.'
 ---
 
 ## Abstract
@@ -19,5 +19,7 @@ We present a Python-based real-time EEG processing framework for stress analysis
 Wendeng Wang, Sheng-Hsiou Hsu, Tzyy-Ping Jung, Ying Choon Wu
 
 University of California, San Diego (UCSD)
+
+**Conference:** [12th International IEEE EMBS Conference on Neural Engineering (NER 2025)](https://neuro.embs.org/2025/), San Diego, CA, November 11–14, 2025
 
 [Download poster (PDF)](https://d-d-w404.github.io/Profile/files/wang-realtime-eeg-poster.pdf)
