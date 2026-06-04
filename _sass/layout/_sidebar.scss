@@ -18,15 +18,18 @@
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 100vh;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
-    position: fixed;
-    padding-top: $masthead-height;
+    height: auto;
+    overflow-y: visible;
+    position: sticky;
+    top: 2em;
+    align-self: flex-start;
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
-    max-width: 100%;
+    flex: 0 0 22%;
+    max-width: 250px;
+    min-width: 0;
+    float: none;
     box-sizing: border-box;
     overflow-x: hidden;
     opacity: 1;
