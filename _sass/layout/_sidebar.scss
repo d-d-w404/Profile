@@ -58,6 +58,20 @@
   img {
     width: 100%;
   }
+
+  .author__avatar img {
+    width: 220px;
+    height: 220px;
+    max-width: 220px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid var(--global-border-color);
+    }
+  }
 }
 
 .sidebar__right {
@@ -154,11 +168,12 @@
   }
 
   img {
-    width: 410px;
-    height: 410px;
-    max-width: 410px;
+    width: 220px;
+    height: 220px;
+    max-width: 220px;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
-    border-radius: 100%;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
